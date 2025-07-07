@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Atharva Shrivastava
 
-🎓 MSc Software Engineering Student | 💻 Full-Stack Developer | 🔬 Computer Vision Enthusiast  
+🎓 MSc Software Engineering  | 💻 Full-Stack Developer | 🔬 Computer Vision Enthusiast  
 📍 Based in Athlone, Ireland | 🌱 Eager Learner | 🤝 Open to Collaborations
 
 ---
