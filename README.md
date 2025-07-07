@@ -5,7 +5,7 @@
 
 ---
 
-I’m a passionate software engineer currently pursuing my Master's in Software Engineering at the **Technological University of the Shannon: Midlands, Athlone**. As a fresher in the industry, I bring over three years of hands-on experience working on diverse real-world projects, ranging from full-stack web development to computer vision-based analysis.
+I’m a passionate software engineer, and I completed my Master's in Software Engineering at the Technological University of the Shannon: Midlands, Athlone. As a fresher in the industry, I bring over three years of hands-on experience working on diverse real-world projects, ranging from full-stack web development to computer vision-based analysis.
 
 I have a keen interest in creating efficient, scalable systems, and I thrive on applying practical DevOps techniques, cloud deployment, and agile methodologies to solve complex problems.
 
