@@ -50,9 +50,9 @@ I completed my Master's in Software Engineering at the Technological University 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvaishere&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=atharvaishere&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaishere&layout=compact&theme=radical" alt="Atharva's Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=atharvaishere&layout=compact&theme=radical" alt="Atharva's Top Languages" />
 </div>
 
 ---
