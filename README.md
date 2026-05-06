@@ -1,460 +1,69 @@
-# 👋 Hello! I'm Atharva Shrivastava
+<div align="center">
+  <h1>👋 Hello! I'm Atharva Shrivastava</h1>
+  <p>🎓 MSc Software Engineering | 💻 Full-Stack Developer | 🔬 AI & Computer Vision Enthusiast</p>
+  <p>📍 Based in Athlone, Ireland | 🌱 Eager Learner | 🤝 Open to Collaborations</p>
+</div>
 
-🎓 MSc Software Engineering  | 💻 Full-Stack Developer | 🔬 Computer Vision Enthusiast  
-📍 Based in Athlone, Ireland | 🌱 Eager Learner | 🤝 Open to Collaborations
+<br/>
 
----
-
-I’m a passionate software engineer, and I completed my Master's in Software Engineering at the Technological University of the Shannon: Midlands, Athlone. As a fresher in the industry, I bring over three years of hands-on experience working on diverse real-world projects, ranging from full-stack web development to computer vision-based analysis.
-
-I have a keen interest in creating efficient, scalable systems, and I thrive on applying practical DevOps techniques, cloud deployment, and agile methodologies to solve complex problems.
-
----
-
-## 🔧 Tech Stack & Skills
-
-**Languages:** JavaScript, Python, C++, C#, SQL  
-**Frameworks/Libraries:** React.js, Spring Boot, Node.js, Express.js  
-**Tools & Platforms:** Git, AWS, Docker, Jenkins, Swagger, Datadog, MongoDB, MySQL  
-**CS Fundamentals:** Data Structures, Algorithms, DBMS, Operating Systems, OOP  
-**Interests:** Microservices, Agile, Build & Delivery, Software Design, Computer Vision (YOLO, OpenCV)
+<div align="center">
+  <a href="mailto:shri.atharva11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/atharvaishere"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
 ---
 
-## 🛠️ Highlighted Projects
-
-### 🚀 [To-Do Management](https://github.com/atharvaishere/To-Do-Management)
-- Deployed on AWS with separate frontend/backend instances
-- Integrated CI/CD using Jenkins and monitored with Datadog
-- API documentation using Swagger, improving team collaboration
-
-### 🎯 [Computer Vision Based Crowd Scene Analysis](https://github.com/atharvaishere/Computer_Vision_Based_Crowd_Scene_Analysis)
-- Applied YOLO and Python-based detection for crowd behavior
-- Integrated with [Frontend](https://github.com/atharvaishere/Frontend_for_CV_Based_Crowd_Scene_Analysis) and [Backend](https://github.com/atharvaishere/Backend_CV_Analysis) systems
-- Designed to support real-time analysis and visualization
-
-### 🛒 Dadi Grocery Website
-- Built a full-stack shopping and invoice platform with custom admin capabilities
-- Delivered a production-ready MVP 1 month ahead of schedule
+### 👨‍💻 About Me
+I completed my Master's in Software Engineering at the Technological University of the Shannon: Midlands, Athlone. I bring hands-on experience working on diverse real-world projects, ranging from full-stack web development to AI and computer vision-based analysis. I have a keen interest in creating efficient, scalable systems, and I thrive on applying practical DevOps techniques, cloud deployment, and agile methodologies to solve complex problems.
 
 ---
 
-## 📈 Career Snapshot
+### 🚀 Highlighted & Recent Projects
 
-- **Software Engineer Intern @ Wiley Tech**  
-  Developed features, performed testing, and enhanced application performance while contributing to QA automation and code reviews.
+#### 🤖 **[Jarvis-AI](https://github.com/atharvaishere/Jarvis-AI) & [Neuronotes-AI](https://github.com/atharvaishere/Neuronotes-AI)**
+- AI-driven applications built in Python to streamline tasks and enhance productivity through intelligent automation.
 
-- **Team Lead & Coordinator**  
-  Guided 5–15 team members for academic conferences, showcasing leadership and organizational skills.
+#### 🎙️ **[Kurukshetra-Debate-App](https://github.com/atharvaishere/Kurukshetra-Debate-App) & [DevConnect](https://github.com/atharvaishere/DevConnect)**
+- Interactive JavaScript & Full-stack web platforms tailored for real-time collaboration and community engagement.
+
+#### 🎯 **[Computer Vision Based Crowd Scene Analysis](https://github.com/atharvaishere/Computer_Vision_Based_Crowd_Scene_Analysis)**
+- Applied YOLO and Python-based detection for crowd behavior with integrated [Frontend](https://github.com/atharvaishere/Frontend_for_CV_Based_Crowd_Scene_Analysis) and [Backend](https://github.com/atharvaishere/Backend_CV_Analysis) systems.
+
+#### ✅ **[To-Do Management System](https://github.com/atharvaishere/To-Do-Management)**
+- AWS deployed application with CI/CD via Jenkins, Datadog monitoring, and Swagger API documentation.
+
+#### 🛒 **Dadi Grocery Website**
+- Built a full-stack shopping and invoice platform with custom admin capabilities, delivering a production-ready MVP 1 month ahead of schedule.
 
 ---
 
-## 📫 Let’s Connect!
+### 🔧 Tech Stack & Skills
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 shri.atharva11@gmail.com  
-- 🌍 [GitHub](https://github.com/atharvaishere)
+- **Languages:** Python, JavaScript/TypeScript, C++, C#, HTML/CSS, SQL
+- **Frameworks & Libs:** React.js, Spring Boot, Node.js, Express.js
+- **Cloud & DevOps:** AWS, Docker, Jenkins, Datadog, Git
+- **Databases:** MongoDB, MySQL
+- **Core Focus:** AI/ML, Computer Vision (YOLO, OpenCV), Microservices, System Design
 
 ---
 
-_“Building scalable, secure, and smart systems while always learning and growing.”_ 
-- 📫 How to reach me ...emails are- shri.athava11@gmail.com, shri.somu11@gmail.com, @shrivastawatharva@gmail.com
-- Instagram- a_for_atharva
+### 📊 GitHub Stats
 
-<!---
-atharvaishere/atharvaishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvaishere&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaishere&layout=compact&theme=radical" alt="Atharva's Top Languages" />
+</div>
 
+---
 
+### 📫 Contact & Connect
+- 📧 **Primary Email:** shri.atharva11@gmail.com
+- 📧 **Alternative Emails:** shri.somu11@gmail.com, shrivastawatharva@gmail.com
+- 📸 **Instagram:** a_for_atharva
 
+<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Last updated: 2026-05-06 **
+<div align="center">
+  <i>“Building scalable, secure, and smart systems while always learning and growing.”</i>
+</div>
